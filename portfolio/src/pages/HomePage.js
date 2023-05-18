@@ -25,10 +25,7 @@ function Homepage() {
             <div className="col-8 faded-Dark rounded">
               <h2 className="text-center">About Me</h2>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi
-                in eos soluta magni sunt est excepturi voluptatum dicta
-                inventore, impedit similique, deserunt sint illo fugit magnam,
-                obcaecati quasi nisi at.
+                Awesome Inc grad looking to work with others on projects where I can use my skills creatively. 
               </p>
             </div>
           </div>

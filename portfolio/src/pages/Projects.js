@@ -89,6 +89,22 @@ export default function Projects() {
                   </div>
                 </div>
               </div>
+              <div className="col-3 m-3">
+                <div className="card" style={{ width: "18rem" }}>
+                  <div className="card-body">
+                    <h5 className="card-title text-center">Movie Maniacs</h5>
+                    <p className="card-text">
+                      Full stack Imdb Clone{" "}
+                    </p>
+                    <a
+                      class="btn btn-primary"
+                      href="https://moviemaniacs-6726e.web.app/home"
+                    >
+                      View Project
+                    </a>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
